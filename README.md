@@ -50,4 +50,7 @@ The barrier to AI adoption isn't the technology—it's translating complex conce
 
 *These materials are shared for educational purposes. Feel free to adapt them for your own teaching or learning.*
 
+---
+**Note**: This repository is actively maintained. Speaker notes and additional resources coming soon.
+
 *Workshop designed and delivered by Arjun Chauhan | [LinkedIn](https://www.linkedin.com/in/arjunschauhan/) | [Email](mailto:arjchauhan@gmail.com)*
