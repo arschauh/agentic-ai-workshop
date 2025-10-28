@@ -10,7 +10,7 @@ Multi-step automation workflow that captures customer reviews, performs AI-power
 Automatically monitors incoming reviews via Google Forms, performs AI sentiment classification, sends Slack alerts for negative feedback, and tracks end-to-end processing metrics.
 
 ## What's Included
-- **`workflow-diagram.png`** - Visual representation of the complete automation
+- **`zapier-workflow.png`** - Visual representation of the complete automation
 - **`technical-walkthrough.md`** - Detailed step-by-step implementation guide
 
 ## Key Learning
