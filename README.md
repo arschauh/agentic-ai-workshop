@@ -41,8 +41,10 @@ The barrier to AI adoption isn't the technology—it's translating complex conce
 
 ## Repository Contents
 
-- **`slides/`** - Workshop presentation materials
-- **`demos/`** - Step-by-step implementation guides for both demos
+- **`slides/`** - Workshop presentation materials (3 decks covering all sessions)
+- **`demos/`** - Step-by-step implementation guides:
+  - ChatGPT customer insights extraction with iterative prompt engineering
+  - Zapier sentiment automation with AI-powered routing and alerting
 
 ---
 
